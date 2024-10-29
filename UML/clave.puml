@@ -1,0 +1,17 @@
+@startsalt clave
+skinparam BackgroundColor palegreeen
+{+
+Login | " alex "
+pawware | " *** "
+[ borrar ] | [ entrar ]
+
+
+
+}
+
+
+
+
+
+
+@enduml
